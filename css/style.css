@@ -55,7 +55,6 @@ body {
 
 .description {
     font-size: 1.5rem;
-    margin-bottom: 20px;
 }
 
 .button a {
@@ -68,6 +67,11 @@ body {
 .image-container {
     margin-top: 20px;
     text-align: center;
+}
+
+.texto{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
 }
 
 .valentine-image {
